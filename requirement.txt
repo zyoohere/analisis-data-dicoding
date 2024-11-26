@@ -1,5 +1,5 @@
-1. Pandas
-2. Numpy
-3. matplotlib
-4. seaborn
-5. Streamlit
+pandas
+numpy
+matplotlib
+seaborn
+streamlit
