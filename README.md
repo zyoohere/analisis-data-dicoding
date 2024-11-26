@@ -63,4 +63,5 @@ Pertama, unduh proyek Dashboard ke komputer Anda untuk memulai.
   *streamlit run dashboard/dashboard.py*
 Dengan mengikuti langkah-langkah di atas, Anda dapat dengan mudah menjalankan Dashboard Streamlit dan mulai menikmati visualisasi data yang telah dibuat. Selamat mencoba!
 
-
+## Link Hasil Deploy
+https://dashboard-bikes.streamlit.app/
