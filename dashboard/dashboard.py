@@ -8,7 +8,7 @@ import seaborn as sns
 data = pd.read_csv('https://raw.githubusercontent.com/zyoohere/analisis-data-dicoding/refs/heads/main/day_df_clean.csv')
 
 # Sidebar
-st.sidebar.header('Filter Data')
+st.sidebar.header('Filter ')
 selected_season = st.sidebar.multiselect('Pilih Musim', data['season'].unique(), default=data['season'].unique())
 selected_month = st.sidebar.multiselect('Pilih Bulan', data['month'].unique(), default=data['month'].unique())
 selected_year = st.sidebar.multiselect('Pilih Tahun', data['year'].unique(), default=data['year'].unique())
