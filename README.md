@@ -1,7 +1,7 @@
 # Dashboard Bike Sharing
 ## Preview
 ```
-![Demo](Dashboard.gif)
+![Bike Sharing Dashboard Streamlit Preview](https://raw.githubusercontent.com/hilmiyatulasna/proyek-analisis-data-dicoding/main/Dashboard.gif)
 ```
 
 ## WorkFlow Analisis Data Bike Sharing
