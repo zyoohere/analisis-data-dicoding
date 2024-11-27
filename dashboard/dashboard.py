@@ -28,7 +28,7 @@ filtered_data = data[(data['year'].isin(selected_year)) &
 #menampilkan kontak saya
 st.sidebar.title("Contact Me")
 st.sidebar.markdown("""
-                    - 📧 **Email:** [triotahri99@gmail.com](mailto:triotahri99@gmail.com)
+                    - 📧 **Email:** [triotahril99@gmail.com](mailto:triotahri99@gmail.com)
                     - 💼 **LinkedIn:** [Trio Tahril Rifandi](https://www.linkedin.com/in/triotahrill/)
                     - 🛠️ **Github:** [Zyoohere](https://github.com/zyoohere/analisis-data-dicoding)
                     """)
