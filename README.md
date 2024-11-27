@@ -1,18 +1,7 @@
-# Bike Rental Analysis
-![Demo](Dashboard.gif)
-## File Structures
+# Dashboard Bike Sharing
+## Preview
 ```
-├── .venv
-├── Dashboard
-│   ├── dashboard.py
-├── Datas
-│   ├── day.csv
-│   ├── hour.csv
-|   └── Readme.txt
-├── Dashboard.gif
-├── README.md
-├── notebook.ipynb
-└── requirements.txt
+![Demo](Dashboard.gif)
 ```
 
 ## WorkFlow Analisis Data Bike Sharing
